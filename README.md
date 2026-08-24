@@ -22,6 +22,10 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MadhuriN-369&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhuriN-369/MadhuriN-369/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhuriN-369/MadhuriN-369/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MadhuriN-369/MadhuriN-369/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
